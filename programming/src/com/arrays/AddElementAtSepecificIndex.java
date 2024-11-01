@@ -10,6 +10,7 @@ public class AddElementAtSepecificIndex {
 		
 		int index=2;
 		int ele = 25;
+		int sr="SHivu"
 		
 		int res[] = new int[arr.length+1];
 		
